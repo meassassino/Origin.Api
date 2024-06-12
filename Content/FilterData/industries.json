@@ -1,0 +1,1345 @@
+{
+  "elements": [
+    {
+      "$URN": "urn:li:industry:1",
+      "name": {
+        "localized": {
+          "en_US": "Defense & Space"
+        }
+      },
+      "id": 1
+    },
+    {
+      "$URN": "urn:li:industry:3",
+      "name": {
+        "localized": {
+          "en_US": "Computer Hardware"
+        }
+      },
+      "id": 3
+    },
+    {
+      "$URN": "urn:li:industry:4",
+      "name": {
+        "localized": {
+          "en_US": "Computer Software"
+        }
+      },
+      "id": 4
+    },
+    {
+      "$URN": "urn:li:industry:5",
+      "name": {
+        "localized": {
+          "en_US": "Computer Networking"
+        }
+      },
+      "id": 5
+    },
+    {
+      "$URN": "urn:li:industry:6",
+      "name": {
+        "localized": {
+          "en_US": "Internet"
+        }
+      },
+      "id": 6
+    },
+    {
+      "$URN": "urn:li:industry:7",
+      "name": {
+        "localized": {
+          "en_US": "Semiconductors"
+        }
+      },
+      "id": 7
+    },
+    {
+      "$URN": "urn:li:industry:8",
+      "name": {
+        "localized": {
+          "en_US": "Telecommunications"
+        }
+      },
+      "id": 8
+    },
+    {
+      "$URN": "urn:li:industry:9",
+      "name": {
+        "localized": {
+          "en_US": "Law Practice"
+        }
+      },
+      "id": 9
+    },
+    {
+      "$URN": "urn:li:industry:10",
+      "name": {
+        "localized": {
+          "en_US": "Legal Services"
+        }
+      },
+      "id": 10
+    },
+    {
+      "$URN": "urn:li:industry:11",
+      "name": {
+        "localized": {
+          "en_US": "Management Consulting"
+        }
+      },
+      "id": 11
+    },
+    {
+      "$URN": "urn:li:industry:12",
+      "name": {
+        "localized": {
+          "en_US": "Biotechnology"
+        }
+      },
+      "id": 12
+    },
+    {
+      "$URN": "urn:li:industry:13",
+      "name": {
+        "localized": {
+          "en_US": "Medical Practice"
+        }
+      },
+      "id": 13
+    },
+    {
+      "$URN": "urn:li:industry:14",
+      "name": {
+        "localized": {
+          "en_US": "Hospital & Health Care"
+        }
+      },
+      "id": 14
+    },
+    {
+      "$URN": "urn:li:industry:15",
+      "name": {
+        "localized": {
+          "en_US": "Pharmaceuticals"
+        }
+      },
+      "id": 15
+    },
+    {
+      "$URN": "urn:li:industry:16",
+      "name": {
+        "localized": {
+          "en_US": "Veterinary"
+        }
+      },
+      "id": 16
+    },
+    {
+      "$URN": "urn:li:industry:17",
+      "name": {
+        "localized": {
+          "en_US": "Medical Device"
+        }
+      },
+      "id": 17
+    },
+    {
+      "$URN": "urn:li:industry:18",
+      "name": {
+        "localized": {
+          "en_US": "Cosmetics"
+        }
+      },
+      "id": 18
+    },
+    {
+      "$URN": "urn:li:industry:19",
+      "name": {
+        "localized": {
+          "en_US": "Apparel & Fashion"
+        }
+      },
+      "id": 19
+    },
+    {
+      "$URN": "urn:li:industry:20",
+      "name": {
+        "localized": {
+          "en_US": "Sporting Goods"
+        }
+      },
+      "id": 20
+    },
+    {
+      "$URN": "urn:li:industry:21",
+      "name": {
+        "localized": {
+          "en_US": "Tobacco"
+        }
+      },
+      "id": 21
+    },
+    {
+      "$URN": "urn:li:industry:22",
+      "name": {
+        "localized": {
+          "en_US": "Supermarkets"
+        }
+      },
+      "id": 22
+    },
+    {
+      "$URN": "urn:li:industry:23",
+      "name": {
+        "localized": {
+          "en_US": "Food Production"
+        }
+      },
+      "id": 23
+    },
+    {
+      "$URN": "urn:li:industry:24",
+      "name": {
+        "localized": {
+          "en_US": "Consumer Electronics"
+        }
+      },
+      "id": 24
+    },
+    {
+      "$URN": "urn:li:industry:25",
+      "name": {
+        "localized": {
+          "en_US": "Consumer Goods"
+        }
+      },
+      "id": 25
+    },
+    {
+      "$URN": "urn:li:industry:26",
+      "name": {
+        "localized": {
+          "en_US": "Furniture"
+        }
+      },
+      "id": 26
+    },
+    {
+      "$URN": "urn:li:industry:27",
+      "name": {
+        "localized": {
+          "en_US": "Retail"
+        }
+      },
+      "id": 27
+    },
+    {
+      "$URN": "urn:li:industry:28",
+      "name": {
+        "localized": {
+          "en_US": "Entertainment"
+        }
+      },
+      "id": 28
+    },
+    {
+      "$URN": "urn:li:industry:29",
+      "name": {
+        "localized": {
+          "en_US": "Gambling & Casinos"
+        }
+      },
+      "id": 29
+    },
+    {
+      "$URN": "urn:li:industry:30",
+      "name": {
+        "localized": {
+          "en_US": "Leisure, Travel & Tourism"
+        }
+      },
+      "id": 30
+    },
+    {
+      "$URN": "urn:li:industry:31",
+      "name": {
+        "localized": {
+          "en_US": "Hospitality"
+        }
+      },
+      "id": 31
+    },
+    {
+      "$URN": "urn:li:industry:32",
+      "name": {
+        "localized": {
+          "en_US": "Restaurants"
+        }
+      },
+      "id": 32
+    },
+    {
+      "$URN": "urn:li:industry:33",
+      "name": {
+        "localized": {
+          "en_US": "Sports"
+        }
+      },
+      "id": 33
+    },
+    {
+      "$URN": "urn:li:industry:34",
+      "name": {
+        "localized": {
+          "en_US": "Food & Beverages"
+        }
+      },
+      "id": 34
+    },
+    {
+      "$URN": "urn:li:industry:35",
+      "name": {
+        "localized": {
+          "en_US": "Motion Pictures & Film"
+        }
+      },
+      "id": 35
+    },
+    {
+      "$URN": "urn:li:industry:36",
+      "name": {
+        "localized": {
+          "en_US": "Broadcast Media"
+        }
+      },
+      "id": 36
+    },
+    {
+      "$URN": "urn:li:industry:37",
+      "name": {
+        "localized": {
+          "en_US": "Museums & Institutions"
+        }
+      },
+      "id": 37
+    },
+    {
+      "$URN": "urn:li:industry:38",
+      "name": {
+        "localized": {
+          "en_US": "Fine Art"
+        }
+      },
+      "id": 38
+    },
+    {
+      "$URN": "urn:li:industry:39",
+      "name": {
+        "localized": {
+          "en_US": "Performing Arts"
+        }
+      },
+      "id": 39
+    },
+    {
+      "$URN": "urn:li:industry:40",
+      "name": {
+        "localized": {
+          "en_US": "Recreational Facilities & Services"
+        }
+      },
+      "id": 40
+    },
+    {
+      "$URN": "urn:li:industry:41",
+      "name": {
+        "localized": {
+          "en_US": "Banking"
+        }
+      },
+      "id": 41
+    },
+    {
+      "$URN": "urn:li:industry:42",
+      "name": {
+        "localized": {
+          "en_US": "Insurance"
+        }
+      },
+      "id": 42
+    },
+    {
+      "$URN": "urn:li:industry:43",
+      "name": {
+        "localized": {
+          "en_US": "Financial Services"
+        }
+      },
+      "id": 43
+    },
+    {
+      "$URN": "urn:li:industry:44",
+      "name": {
+        "localized": {
+          "en_US": "Real Estate"
+        }
+      },
+      "id": 44
+    },
+    {
+      "$URN": "urn:li:industry:45",
+      "name": {
+        "localized": {
+          "en_US": "Investment Banking"
+        }
+      },
+      "id": 45
+    },
+    {
+      "$URN": "urn:li:industry:46",
+      "name": {
+        "localized": {
+          "en_US": "Investment Management"
+        }
+      },
+      "id": 46
+    },
+    {
+      "$URN": "urn:li:industry:47",
+      "name": {
+        "localized": {
+          "en_US": "Accounting"
+        }
+      },
+      "id": 47
+    },
+    {
+      "$URN": "urn:li:industry:48",
+      "name": {
+        "localized": {
+          "en_US": "Construction"
+        }
+      },
+      "id": 48
+    },
+    {
+      "$URN": "urn:li:industry:49",
+      "name": {
+        "localized": {
+          "en_US": "Building Materials"
+        }
+      },
+      "id": 49
+    },
+    {
+      "$URN": "urn:li:industry:50",
+      "name": {
+        "localized": {
+          "en_US": "Architecture & Planning"
+        }
+      },
+      "id": 50
+    },
+    {
+      "$URN": "urn:li:industry:51",
+      "name": {
+        "localized": {
+          "en_US": "Civil Engineering"
+        }
+      },
+      "id": 51
+    },
+    {
+      "$URN": "urn:li:industry:52",
+      "name": {
+        "localized": {
+          "en_US": "Aviation & Aerospace"
+        }
+      },
+      "id": 52
+    },
+    {
+      "$URN": "urn:li:industry:53",
+      "name": {
+        "localized": {
+          "en_US": "Automotive"
+        }
+      },
+      "id": 53
+    },
+    {
+      "$URN": "urn:li:industry:54",
+      "name": {
+        "localized": {
+          "en_US": "Chemicals"
+        }
+      },
+      "id": 54
+    },
+    {
+      "$URN": "urn:li:industry:55",
+      "name": {
+        "localized": {
+          "en_US": "Machinery"
+        }
+      },
+      "id": 55
+    },
+    {
+      "$URN": "urn:li:industry:56",
+      "name": {
+        "localized": {
+          "en_US": "Mining & Metals"
+        }
+      },
+      "id": 56
+    },
+    {
+      "$URN": "urn:li:industry:57",
+      "name": {
+        "localized": {
+          "en_US": "Oil & Energy"
+        }
+      },
+      "id": 57
+    },
+    {
+      "$URN": "urn:li:industry:58",
+      "name": {
+        "localized": {
+          "en_US": "Shipbuilding"
+        }
+      },
+      "id": 58
+    },
+    {
+      "$URN": "urn:li:industry:59",
+      "name": {
+        "localized": {
+          "en_US": "Utilities"
+        }
+      },
+      "id": 59
+    },
+    {
+      "$URN": "urn:li:industry:3131",
+      "name": {
+        "localized": {
+          "en_US": "Mobile Games"
+        }
+      },
+      "id": 3131
+    },
+    {
+      "$URN": "urn:li:industry:60",
+      "name": {
+        "localized": {
+          "en_US": "Textiles"
+        }
+      },
+      "id": 60
+    },
+    {
+      "$URN": "urn:li:industry:61",
+      "name": {
+        "localized": {
+          "en_US": "Paper & Forest Products"
+        }
+      },
+      "id": 61
+    },
+    {
+      "$URN": "urn:li:industry:62",
+      "name": {
+        "localized": {
+          "en_US": "Railroad Manufacture"
+        }
+      },
+      "id": 62
+    },
+    {
+      "$URN": "urn:li:industry:63",
+      "name": {
+        "localized": {
+          "en_US": "Farming"
+        }
+      },
+      "id": 63
+    },
+    {
+      "$URN": "urn:li:industry:64",
+      "name": {
+        "localized": {
+          "en_US": "Ranching"
+        }
+      },
+      "id": 64
+    },
+    {
+      "$URN": "urn:li:industry:65",
+      "name": {
+        "localized": {
+          "en_US": "Dairy"
+        }
+      },
+      "id": 65
+    },
+    {
+      "$URN": "urn:li:industry:66",
+      "name": {
+        "localized": {
+          "en_US": "Fishery"
+        }
+      },
+      "id": 66
+    },
+    {
+      "$URN": "urn:li:industry:67",
+      "name": {
+        "localized": {
+          "en_US": "Primary/Secondary Education"
+        }
+      },
+      "id": 67
+    },
+    {
+      "$URN": "urn:li:industry:68",
+      "name": {
+        "localized": {
+          "en_US": "Higher Education"
+        }
+      },
+      "id": 68
+    },
+    {
+      "$URN": "urn:li:industry:69",
+      "name": {
+        "localized": {
+          "en_US": "Education Management"
+        }
+      },
+      "id": 69
+    },
+    {
+      "$URN": "urn:li:industry:70",
+      "name": {
+        "localized": {
+          "en_US": "Research"
+        }
+      },
+      "id": 70
+    },
+    {
+      "$URN": "urn:li:industry:71",
+      "name": {
+        "localized": {
+          "en_US": "Military"
+        }
+      },
+      "id": 71
+    },
+    {
+      "$URN": "urn:li:industry:72",
+      "name": {
+        "localized": {
+          "en_US": "Legislative Office"
+        }
+      },
+      "id": 72
+    },
+    {
+      "$URN": "urn:li:industry:73",
+      "name": {
+        "localized": {
+          "en_US": "Judiciary"
+        }
+      },
+      "id": 73
+    },
+    {
+      "$URN": "urn:li:industry:74",
+      "name": {
+        "localized": {
+          "en_US": "International Affairs"
+        }
+      },
+      "id": 74
+    },
+    {
+      "$URN": "urn:li:industry:75",
+      "name": {
+        "localized": {
+          "en_US": "Government Administration"
+        }
+      },
+      "id": 75
+    },
+    {
+      "$URN": "urn:li:industry:76",
+      "name": {
+        "localized": {
+          "en_US": "Executive Office"
+        }
+      },
+      "id": 76
+    },
+    {
+      "$URN": "urn:li:industry:77",
+      "name": {
+        "localized": {
+          "en_US": "Law Enforcement"
+        }
+      },
+      "id": 77
+    },
+    {
+      "$URN": "urn:li:industry:78",
+      "name": {
+        "localized": {
+          "en_US": "Public Safety"
+        }
+      },
+      "id": 78
+    },
+    {
+      "$URN": "urn:li:industry:79",
+      "name": {
+        "localized": {
+          "en_US": "Public Policy"
+        }
+      },
+      "id": 79
+    },
+    {
+      "$URN": "urn:li:industry:80",
+      "name": {
+        "localized": {
+          "en_US": "Marketing & Advertising"
+        }
+      },
+      "id": 80
+    },
+    {
+      "$URN": "urn:li:industry:81",
+      "name": {
+        "localized": {
+          "en_US": "Newspapers"
+        }
+      },
+      "id": 81
+    },
+    {
+      "$URN": "urn:li:industry:82",
+      "name": {
+        "localized": {
+          "en_US": "Publishing"
+        }
+      },
+      "id": 82
+    },
+    {
+      "$URN": "urn:li:industry:83",
+      "name": {
+        "localized": {
+          "en_US": "Printing"
+        }
+      },
+      "id": 83
+    },
+    {
+      "$URN": "urn:li:industry:84",
+      "name": {
+        "localized": {
+          "en_US": "Information Services"
+        }
+      },
+      "id": 84
+    },
+    {
+      "$URN": "urn:li:industry:85",
+      "name": {
+        "localized": {
+          "en_US": "Libraries"
+        }
+      },
+      "id": 85
+    },
+    {
+      "$URN": "urn:li:industry:86",
+      "name": {
+        "localized": {
+          "en_US": "Environmental Services"
+        }
+      },
+      "id": 86
+    },
+    {
+      "$URN": "urn:li:industry:87",
+      "name": {
+        "localized": {
+          "en_US": "Package/Freight Delivery"
+        }
+      },
+      "id": 87
+    },
+    {
+      "$URN": "urn:li:industry:88",
+      "name": {
+        "localized": {
+          "en_US": "Individual & Family Services"
+        }
+      },
+      "id": 88
+    },
+    {
+      "$URN": "urn:li:industry:89",
+      "name": {
+        "localized": {
+          "en_US": "Religious Institutions"
+        }
+      },
+      "id": 89
+    },
+    {
+      "$URN": "urn:li:industry:90",
+      "name": {
+        "localized": {
+          "en_US": "Civic & Social Organization"
+        }
+      },
+      "id": 90
+    },
+    {
+      "$URN": "urn:li:industry:91",
+      "name": {
+        "localized": {
+          "en_US": "Consumer Services"
+        }
+      },
+      "id": 91
+    },
+    {
+      "$URN": "urn:li:industry:92",
+      "name": {
+        "localized": {
+          "en_US": "Transportation/Trucking/Railroad"
+        }
+      },
+      "id": 92
+    },
+    {
+      "$URN": "urn:li:industry:93",
+      "name": {
+        "localized": {
+          "en_US": "Warehousing"
+        }
+      },
+      "id": 93
+    },
+    {
+      "$URN": "urn:li:industry:94",
+      "name": {
+        "localized": {
+          "en_US": "Airlines/Aviation"
+        }
+      },
+      "id": 94
+    },
+    {
+      "$URN": "urn:li:industry:95",
+      "name": {
+        "localized": {
+          "en_US": "Maritime"
+        }
+      },
+      "id": 95
+    },
+    {
+      "$URN": "urn:li:industry:96",
+      "name": {
+        "localized": {
+          "en_US": "Information Technology & Services"
+        }
+      },
+      "id": 96
+    },
+    {
+      "$URN": "urn:li:industry:97",
+      "name": {
+        "localized": {
+          "en_US": "Market Research"
+        }
+      },
+      "id": 97
+    },
+    {
+      "$URN": "urn:li:industry:98",
+      "name": {
+        "localized": {
+          "en_US": "Public Relations & Communications"
+        }
+      },
+      "id": 98
+    },
+    {
+      "$URN": "urn:li:industry:99",
+      "name": {
+        "localized": {
+          "en_US": "Design"
+        }
+      },
+      "id": 99
+    },
+    {
+      "$URN": "urn:li:industry:100",
+      "name": {
+        "localized": {
+          "en_US": "Non-profit Organization Management"
+        }
+      },
+      "id": 100
+    },
+    {
+      "$URN": "urn:li:industry:101",
+      "name": {
+        "localized": {
+          "en_US": "Fundraising"
+        }
+      },
+      "id": 101
+    },
+    {
+      "$URN": "urn:li:industry:102",
+      "name": {
+        "localized": {
+          "en_US": "Program Development"
+        }
+      },
+      "id": 102
+    },
+    {
+      "$URN": "urn:li:industry:103",
+      "name": {
+        "localized": {
+          "en_US": "Writing & Editing"
+        }
+      },
+      "id": 103
+    },
+    {
+      "$URN": "urn:li:industry:104",
+      "name": {
+        "localized": {
+          "en_US": "Staffing & Recruiting"
+        }
+      },
+      "id": 104
+    },
+    {
+      "$URN": "urn:li:industry:105",
+      "name": {
+        "localized": {
+          "en_US": "Professional Training & Coaching"
+        }
+      },
+      "id": 105
+    },
+    {
+      "$URN": "urn:li:industry:106",
+      "name": {
+        "localized": {
+          "en_US": "Venture Capital & Private Equity"
+        }
+      },
+      "id": 106
+    },
+    {
+      "$URN": "urn:li:industry:107",
+      "name": {
+        "localized": {
+          "en_US": "Political Organization"
+        }
+      },
+      "id": 107
+    },
+    {
+      "$URN": "urn:li:industry:108",
+      "name": {
+        "localized": {
+          "en_US": "Translation & Localization"
+        }
+      },
+      "id": 108
+    },
+    {
+      "$URN": "urn:li:industry:109",
+      "name": {
+        "localized": {
+          "en_US": "Computer Games"
+        }
+      },
+      "id": 109
+    },
+    {
+      "$URN": "urn:li:industry:110",
+      "name": {
+        "localized": {
+          "en_US": "Events Services"
+        }
+      },
+      "id": 110
+    },
+    {
+      "$URN": "urn:li:industry:111",
+      "name": {
+        "localized": {
+          "en_US": "Arts & Crafts"
+        }
+      },
+      "id": 111
+    },
+    {
+      "$URN": "urn:li:industry:112",
+      "name": {
+        "localized": {
+          "en_US": "Electrical & Electronic Manufacturing"
+        }
+      },
+      "id": 112
+    },
+    {
+      "$URN": "urn:li:industry:113",
+      "name": {
+        "localized": {
+          "en_US": "Online Media"
+        }
+      },
+      "id": 113
+    },
+    {
+      "$URN": "urn:li:industry:114",
+      "name": {
+        "localized": {
+          "en_US": "Nanotechnology"
+        }
+      },
+      "id": 114
+    },
+    {
+      "$URN": "urn:li:industry:115",
+      "name": {
+        "localized": {
+          "en_US": "Music"
+        }
+      },
+      "id": 115
+    },
+    {
+      "$URN": "urn:li:industry:116",
+      "name": {
+        "localized": {
+          "en_US": "Logistics & Supply Chain"
+        }
+      },
+      "id": 116
+    },
+    {
+      "$URN": "urn:li:industry:117",
+      "name": {
+        "localized": {
+          "en_US": "Plastics"
+        }
+      },
+      "id": 117
+    },
+    {
+      "$URN": "urn:li:industry:118",
+      "name": {
+        "localized": {
+          "en_US": "Computer & Network Security"
+        }
+      },
+      "id": 118
+    },
+    {
+      "$URN": "urn:li:industry:119",
+      "name": {
+        "localized": {
+          "en_US": "Wireless"
+        }
+      },
+      "id": 119
+    },
+    {
+      "$URN": "urn:li:industry:120",
+      "name": {
+        "localized": {
+          "en_US": "Alternative Dispute Resolution"
+        }
+      },
+      "id": 120
+    },
+    {
+      "$URN": "urn:li:industry:121",
+      "name": {
+        "localized": {
+          "en_US": "Security & Investigations"
+        }
+      },
+      "id": 121
+    },
+    {
+      "$URN": "urn:li:industry:122",
+      "name": {
+        "localized": {
+          "en_US": "Facilities Services"
+        }
+      },
+      "id": 122
+    },
+    {
+      "$URN": "urn:li:industry:123",
+      "name": {
+        "localized": {
+          "en_US": "Outsourcing/Offshoring"
+        }
+      },
+      "id": 123
+    },
+    {
+      "$URN": "urn:li:industry:124",
+      "name": {
+        "localized": {
+          "en_US": "Health, Wellness & Fitness"
+        }
+      },
+      "id": 124
+    },
+    {
+      "$URN": "urn:li:industry:125",
+      "name": {
+        "localized": {
+          "en_US": "Alternative Medicine"
+        }
+      },
+      "id": 125
+    },
+    {
+      "$URN": "urn:li:industry:126",
+      "name": {
+        "localized": {
+          "en_US": "Media Production"
+        }
+      },
+      "id": 126
+    },
+    {
+      "$URN": "urn:li:industry:127",
+      "name": {
+        "localized": {
+          "en_US": "Animation"
+        }
+      },
+      "id": 127
+    },
+    {
+      "$URN": "urn:li:industry:128",
+      "name": {
+        "localized": {
+          "en_US": "Commercial Real Estate"
+        }
+      },
+      "id": 128
+    },
+    {
+      "$URN": "urn:li:industry:129",
+      "name": {
+        "localized": {
+          "en_US": "Capital Markets"
+        }
+      },
+      "id": 129
+    },
+    {
+      "$URN": "urn:li:industry:130",
+      "name": {
+        "localized": {
+          "en_US": "Think Tanks"
+        }
+      },
+      "id": 130
+    },
+    {
+      "$URN": "urn:li:industry:131",
+      "name": {
+        "localized": {
+          "en_US": "Philanthropy"
+        }
+      },
+      "id": 131
+    },
+    {
+      "$URN": "urn:li:industry:132",
+      "name": {
+        "localized": {
+          "en_US": "E-learning"
+        }
+      },
+      "id": 132
+    },
+    {
+      "$URN": "urn:li:industry:133",
+      "name": {
+        "localized": {
+          "en_US": "Wholesale"
+        }
+      },
+      "id": 133
+    },
+    {
+      "$URN": "urn:li:industry:134",
+      "name": {
+        "localized": {
+          "en_US": "Import & Export"
+        }
+      },
+      "id": 134
+    },
+    {
+      "$URN": "urn:li:industry:135",
+      "name": {
+        "localized": {
+          "en_US": "Mechanical Or Industrial Engineering"
+        }
+      },
+      "id": 135
+    },
+    {
+      "$URN": "urn:li:industry:136",
+      "name": {
+        "localized": {
+          "en_US": "Photography"
+        }
+      },
+      "id": 136
+    },
+    {
+      "$URN": "urn:li:industry:137",
+      "name": {
+        "localized": {
+          "en_US": "Human Resources"
+        }
+      },
+      "id": 137
+    },
+    {
+      "$URN": "urn:li:industry:138",
+      "name": {
+        "localized": {
+          "en_US": "Business Supplies & Equipment"
+        }
+      },
+      "id": 138
+    },
+    {
+      "$URN": "urn:li:industry:139",
+      "name": {
+        "localized": {
+          "en_US": "Mental Health Care"
+        }
+      },
+      "id": 139
+    },
+    {
+      "$URN": "urn:li:industry:140",
+      "name": {
+        "localized": {
+          "en_US": "Graphic Design"
+        }
+      },
+      "id": 140
+    },
+    {
+      "$URN": "urn:li:industry:141",
+      "name": {
+        "localized": {
+          "en_US": "International Trade & Development"
+        }
+      },
+      "id": 141
+    },
+    {
+      "$URN": "urn:li:industry:142",
+      "name": {
+        "localized": {
+          "en_US": "Wine & Spirits"
+        }
+      },
+      "id": 142
+    },
+    {
+      "$URN": "urn:li:industry:143",
+      "name": {
+        "localized": {
+          "en_US": "Luxury Goods & Jewelry"
+        }
+      },
+      "id": 143
+    },
+    {
+      "$URN": "urn:li:industry:144",
+      "name": {
+        "localized": {
+          "en_US": "Renewables & Environment"
+        }
+      },
+      "id": 144
+    },
+    {
+      "$URN": "urn:li:industry:145",
+      "name": {
+        "localized": {
+          "en_US": "Glass, Ceramics & Concrete"
+        }
+      },
+      "id": 145
+    },
+    {
+      "$URN": "urn:li:industry:146",
+      "name": {
+        "localized": {
+          "en_US": "Packaging & Containers"
+        }
+      },
+      "id": 146
+    },
+    {
+      "$URN": "urn:li:industry:147",
+      "name": {
+        "localized": {
+          "en_US": "Industrial Automation"
+        }
+      },
+      "id": 147
+    },
+    {
+      "$URN": "urn:li:industry:148",
+      "name": {
+        "localized": {
+          "en_US": "Government Relations"
+        }
+      },
+      "id": 148
+    },
+    {
+      "$URN": "urn:li:industry:150",
+      "name": {
+        "localized": {
+          "en_US": "Horticulture"
+        }
+      },
+      "id": 150
+    }
+  ]
+}

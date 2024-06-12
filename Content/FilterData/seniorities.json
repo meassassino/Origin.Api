@@ -1,0 +1,94 @@
+{
+  "elements": [
+    {
+      "$URN": "urn:li:seniority:1",
+      "name": {
+        "localized": {
+          "en_US": "Unpaid"
+        }
+      },
+      "id": 1
+    },
+    {
+      "$URN": "urn:li:seniority:2",
+      "name": {
+        "localized": {
+          "en_US": "Training"
+        }
+      },
+      "id": 2
+    },
+    {
+      "$URN": "urn:li:seniority:3",
+      "name": {
+        "localized": {
+          "en_US": "Entry"
+        }
+      },
+      "id": 3
+    },
+    {
+      "$URN": "urn:li:seniority:4",
+      "name": {
+        "localized": {
+          "en_US": "Senior"
+        }
+      },
+      "id": 4
+    },
+    {
+      "$URN": "urn:li:seniority:5",
+      "name": {
+        "localized": {
+          "en_US": "Manager"
+        }
+      },
+      "id": 5
+    },
+    {
+      "$URN": "urn:li:seniority:6",
+      "name": {
+        "localized": {
+          "en_US": "Director"
+        }
+      },
+      "id": 6
+    },
+    {
+      "$URN": "urn:li:seniority:7",
+      "name": {
+        "localized": {
+          "en_US": "VP"
+        }
+      },
+      "id": 7
+    },
+    {
+      "$URN": "urn:li:seniority:8",
+      "name": {
+        "localized": {
+          "en_US": "CXO"
+        }
+      },
+      "id": 8
+    },
+    {
+      "$URN": "urn:li:seniority:9",
+      "name": {
+        "localized": {
+          "en_US": "Partner"
+        }
+      },
+      "id": 9
+    },
+    {
+      "$URN": "urn:li:seniority:10",
+      "name": {
+        "localized": {
+          "en_US": "Owner"
+        }
+      },
+      "id": 10
+    }
+  ]
+}

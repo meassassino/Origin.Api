@@ -1,0 +1,238 @@
+{
+  "elements": [
+    {
+      "$URN": "urn:li:function:1",
+      "name": {
+        "localized": {
+          "en_US": "Accounting"
+        }
+      },
+      "id": 1
+    },
+    {
+      "$URN": "urn:li:function:2",
+      "name": {
+        "localized": {
+          "en_US": "Administrative"
+        }
+      },
+      "id": 2
+    },
+    {
+      "$URN": "urn:li:function:3",
+      "name": {
+        "localized": {
+          "en_US": "Arts and Design"
+        }
+      },
+      "id": 3
+    },
+    {
+      "$URN": "urn:li:function:4",
+      "name": {
+        "localized": {
+          "en_US": "Business Development"
+        }
+      },
+      "id": 4
+    },
+    {
+      "$URN": "urn:li:function:5",
+      "name": {
+        "localized": {
+          "en_US": "Community and Social Services"
+        }
+      },
+      "id": 5
+    },
+    {
+      "$URN": "urn:li:function:6",
+      "name": {
+        "localized": {
+          "en_US": "Consulting"
+        }
+      },
+      "id": 6
+    },
+    {
+      "$URN": "urn:li:function:7",
+      "name": {
+        "localized": {
+          "en_US": "Education"
+        }
+      },
+      "id": 7
+    },
+    {
+      "$URN": "urn:li:function:8",
+      "name": {
+        "localized": {
+          "en_US": "Engineering"
+        }
+      },
+      "id": 8
+    },
+    {
+      "$URN": "urn:li:function:9",
+      "name": {
+        "localized": {
+          "en_US": "Entrepreneurship"
+        }
+      },
+      "id": 9
+    },
+    {
+      "$URN": "urn:li:function:10",
+      "name": {
+        "localized": {
+          "en_US": "Finance"
+        }
+      },
+      "id": 10
+    },
+    {
+      "$URN": "urn:li:function:11",
+      "name": {
+        "localized": {
+          "en_US": "Healthcare Services"
+        }
+      },
+      "id": 11
+    },
+    {
+      "$URN": "urn:li:function:12",
+      "name": {
+        "localized": {
+          "en_US": "Human Resources"
+        }
+      },
+      "id": 12
+    },
+    {
+      "$URN": "urn:li:function:13",
+      "name": {
+        "localized": {
+          "en_US": "Information Technology"
+        }
+      },
+      "id": 13
+    },
+    {
+      "$URN": "urn:li:function:14",
+      "name": {
+        "localized": {
+          "en_US": "Legal"
+        }
+      },
+      "id": 14
+    },
+    {
+      "$URN": "urn:li:function:15",
+      "name": {
+        "localized": {
+          "en_US": "Marketing"
+        }
+      },
+      "id": 15
+    },
+    {
+      "$URN": "urn:li:function:16",
+      "name": {
+        "localized": {
+          "en_US": "Media and Communication"
+        }
+      },
+      "id": 16
+    },
+    {
+      "$URN": "urn:li:function:17",
+      "name": {
+        "localized": {
+          "en_US": "Military and Protective Services"
+        }
+      },
+      "id": 17
+    },
+    {
+      "$URN": "urn:li:function:18",
+      "name": {
+        "localized": {
+          "en_US": "Operations"
+        }
+      },
+      "id": 18
+    },
+    {
+      "$URN": "urn:li:function:19",
+      "name": {
+        "localized": {
+          "en_US": "Product Management"
+        }
+      },
+      "id": 19
+    },
+    {
+      "$URN": "urn:li:function:20",
+      "name": {
+        "localized": {
+          "en_US": "Program and Project Management"
+        }
+      },
+      "id": 20
+    },
+    {
+      "$URN": "urn:li:function:21",
+      "name": {
+        "localized": {
+          "en_US": "Purchasing"
+        }
+      },
+      "id": 21
+    },
+    {
+      "$URN": "urn:li:function:22",
+      "name": {
+        "localized": {
+          "en_US": "Quality Assurance"
+        }
+      },
+      "id": 22
+    },
+    {
+      "$URN": "urn:li:function:23",
+      "name": {
+        "localized": {
+          "en_US": "Real Estate"
+        }
+      },
+      "id": 23
+    },
+    {
+      "$URN": "urn:li:function:24",
+      "name": {
+        "localized": {
+          "en_US": "Research"
+        }
+      },
+      "id": 24
+    },
+    {
+      "$URN": "urn:li:function:25",
+      "name": {
+        "localized": {
+          "en_US": "Sales"
+        }
+      },
+      "id": 25
+    },
+    {
+      "$URN": "urn:li:function:26",
+      "name": {
+        "localized": {
+          "en_US": "Customer Success and Support"
+        }
+      },
+      "id": 26
+    }
+  ]
+}

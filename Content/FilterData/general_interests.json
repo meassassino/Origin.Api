@@ -1,0 +1,2037 @@
+{
+  "elements": [
+    {
+      "urn": "urn:li:interest:generalInterests",
+      "name": "General Interests",
+      "description": "Reach members based on their direct or inferred interest in general categories that align with your business.",
+      "children": [
+        {
+          "urn": "urn:li:interest:693906",
+          "name": "Arts and Entertainment",
+          "description": "Reach members who have shown interest in content related to Arts and Entertainment.",
+          "children": [
+            {
+              "urn": "urn:li:interest:692426",
+              "name": "Audio-Visual Production",
+              "description": "Reach members who have shown interest in content related to Audio-Visual Production.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1536586",
+                  "name": "Sound Engineering",
+                  "description": "Reach members who have shown interest in content related to Sound Engineering."
+                },
+                {
+                  "urn": "urn:li:interest:78059",
+                  "name": "Special Effects",
+                  "description": "Reach members who have shown interest in content related to Special Effects."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:2688978",
+              "name": "Design and Visual Arts",
+              "description": "Reach members who have shown interest in content related to Design and Visual Arts."
+            },
+            {
+              "urn": "urn:li:interest:693810",
+              "name": "Online Media",
+              "description": "Reach members who have shown interest in content related to Online Media.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:692674",
+                  "name": "E-Books",
+                  "description": "Reach members who have shown interest in content related to E-Books."
+                },
+                {
+                  "urn": "urn:li:interest:83995",
+                  "name": "On Demand Videos and Streaming",
+                  "description": "Reach members who have shown interest in content related to On Demand Videos and Streaming."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:693722",
+              "name": "TV and Radio",
+              "description": "Reach members who have shown interest in content related to TV and Radio."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:693514",
+          "name": "Business and Management",
+          "description": "Reach members who have shown interest in content related to Business and Management.",
+          "children": [
+            {
+              "urn": "urn:li:interest:28",
+              "name": "Accounting",
+              "description": "Reach members who have shown interest in content related to Accounting.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:2689874",
+                  "name": "Cash Flow Management",
+                  "description": "Reach members who have shown interest in content related to Cash Flow Management."
+                },
+                {
+                  "urn": "urn:li:interest:1893466",
+                  "name": "Cloud Accounting",
+                  "description": "Reach members who have shown interest in content related to Cloud Accounting."
+                },
+                {
+                  "urn": "urn:li:interest:71499",
+                  "name": "Payroll",
+                  "description": "Reach members who have shown interest in content related to Payroll."
+                },
+                {
+                  "urn": "urn:li:interest:1536618",
+                  "name": "Taxation in Business",
+                  "description": "Reach members who have shown interest in content related to Taxation in Business."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:71363",
+              "name": "Business Administration",
+              "description": "Reach members who have shown interest in content related to Business Administration.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:73451",
+                  "name": "Business Analysis",
+                  "description": "Reach members who have shown interest in content related to Business Analysis."
+                },
+                {
+                  "urn": "urn:li:interest:1537850",
+                  "name": "Business Consulting",
+                  "description": "Reach members who have shown interest in content related to Business Consulting."
+                },
+                {
+                  "urn": "urn:li:interest:77219",
+                  "name": "Business Continuity",
+                  "description": "Reach members who have shown interest in content related to Business Continuity."
+                },
+                {
+                  "urn": "urn:li:interest:1535562",
+                  "name": "Business Mediation",
+                  "description": "Reach members who have shown interest in content related to Business Mediation."
+                },
+                {
+                  "urn": "urn:li:interest:73027",
+                  "name": "Business Plan",
+                  "description": "Reach members who have shown interest in content related to Business Plan."
+                },
+                {
+                  "urn": "urn:li:interest:72675",
+                  "name": "Corporate Communications",
+                  "description": "Reach members who have shown interest in content related to Corporate Communications."
+                },
+                {
+                  "urn": "urn:li:interest:1892434",
+                  "name": "Disruptive Innovation",
+                  "description": "Reach members who have shown interest in content related to Disruptive Innovation."
+                },
+                {
+                  "urn": "urn:li:interest:1619",
+                  "name": "Franchises",
+                  "description": "Reach members who have shown interest in content related to Franchises."
+                },
+                {
+                  "urn": "urn:li:interest:692154",
+                  "name": "Non-Profits and Charities",
+                  "description": "Reach members who have shown interest in content related to Non-Profits and Charities."
+                },
+                {
+                  "urn": "urn:li:interest:1537658",
+                  "name": "Office Management",
+                  "description": "Reach members who have shown interest in content related to Office Management."
+                },
+                {
+                  "urn": "urn:li:interest:1536562",
+                  "name": "Operations Management",
+                  "description": "Reach members who have shown interest in content related to Operations Management."
+                },
+                {
+                  "urn": "urn:li:interest:72155",
+                  "name": "Outsourcing",
+                  "description": "Reach members who have shown interest in content related to Outsourcing."
+                },
+                {
+                  "urn": "urn:li:interest:78003",
+                  "name": "Process Management",
+                  "description": "Reach members who have shown interest in content related to Process Management."
+                },
+                {
+                  "urn": "urn:li:interest:2690618",
+                  "name": "Professional Networking",
+                  "description": "Reach members who have shown interest in content related to Professional Networking."
+                },
+                {
+                  "urn": "urn:li:interest:1536290",
+                  "name": "SMBs",
+                  "description": "Reach members who have shown interest in content related to SMBs."
+                },
+                {
+                  "urn": "urn:li:interest:1538402",
+                  "name": "Starting a Business",
+                  "description": "Reach members who have shown interest in content related to Starting a Business."
+                },
+                {
+                  "urn": "urn:li:interest:72579",
+                  "name": "Strategic Management",
+                  "description": "Reach members who have shown interest in content related to Strategic Management."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:10218",
+              "name": "Business Ethics",
+              "description": "Reach members who have shown interest in content related to Business Ethics.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:77403",
+                  "name": "Corporate Social Responsibility",
+                  "description": "Reach members who have shown interest in content related to Corporate Social Responsibility."
+                },
+                {
+                  "urn": "urn:li:interest:86091",
+                  "name": "Sustainable Business",
+                  "description": "Reach members who have shown interest in content related to Sustainable Business."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:10219",
+              "name": "Business Intelligence",
+              "description": "Reach members who have shown interest in content related to Business Intelligence."
+            },
+            {
+              "urn": "urn:li:interest:1894514",
+              "name": "Business Technology",
+              "description": "Reach members who have shown interest in content related to Business Technology."
+            },
+            {
+              "urn": "urn:li:interest:708",
+              "name": "Business Travel",
+              "description": "Reach members who have shown interest in content related to Business Travel."
+            },
+            {
+              "urn": "urn:li:interest:72347",
+              "name": "Corporate Finance",
+              "description": "Reach members who have shown interest in content related to Corporate Finance.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:106435",
+                  "name": "Corporate Financial Planning",
+                  "description": "Reach members who have shown interest in content related to Corporate Financial Planning."
+                },
+                {
+                  "urn": "urn:li:interest:1536458",
+                  "name": "Financial Auditing",
+                  "description": "Reach members who have shown interest in content related to Financial Auditing."
+                },
+                {
+                  "urn": "urn:li:interest:706",
+                  "name": "Mergers and Acquisitions",
+                  "description": "Reach members who have shown interest in content related to Mergers and Acquisitions."
+                },
+                {
+                  "urn": "urn:li:interest:1536450",
+                  "name": "Stocks and Shares",
+                  "description": "Reach members who have shown interest in content related to Stocks and Shares."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:2688986",
+              "name": "Human Resources",
+              "description": "Reach members who have shown interest in content related to Human Resources.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1536058",
+                  "name": "Continuing Professional Development",
+                  "description": "Reach members who have shown interest in content related to Continuing Professional Development."
+                },
+                {
+                  "urn": "urn:li:interest:2689738",
+                  "name": "Corporate Event Planning",
+                  "description": "Reach members who have shown interest in content related to Corporate Event Planning."
+                },
+                {
+                  "urn": "urn:li:interest:1537898",
+                  "name": "Employee Benefits",
+                  "description": "Reach members who have shown interest in content related to Employee Benefits."
+                },
+                {
+                  "urn": "urn:li:interest:74691",
+                  "name": "Employee Engagement",
+                  "description": "Reach members who have shown interest in content related to Employee Engagement."
+                },
+                {
+                  "urn": "urn:li:interest:2689026",
+                  "name": "Employee Onboarding",
+                  "description": "Reach members who have shown interest in content related to Employee Onboarding."
+                },
+                {
+                  "urn": "urn:li:interest:72435",
+                  "name": "Performance Management",
+                  "description": "Reach members who have shown interest in content related to Performance Management."
+                },
+                {
+                  "urn": "urn:li:interest:4753",
+                  "name": "Salary and Wages",
+                  "description": "Reach members who have shown interest in content related to Salary and Wages."
+                },
+                {
+                  "urn": "urn:li:interest:1536162",
+                  "name": "Workplace Conflict Resolution",
+                  "description": "Reach members who have shown interest in content related to Workplace Conflict Resolution."
+                },
+                {
+                  "urn": "urn:li:interest:1537650",
+                  "name": "Workplace Etiquette",
+                  "description": "Reach members who have shown interest in content related to Workplace Etiquette."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1537250",
+              "name": "People Management",
+              "description": "Reach members who have shown interest in content related to People Management.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:73019",
+                  "name": "Leadership Development",
+                  "description": "Reach members who have shown interest in content related to Leadership Development."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1537746",
+              "name": "Project and Program Management",
+              "description": "Reach members who have shown interest in content related to Project and Program Management.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:5829",
+                  "name": "Agile Project Management",
+                  "description": "Reach members who have shown interest in content related to Agile Project Management."
+                },
+                {
+                  "urn": "urn:li:interest:33015",
+                  "name": "Risk Management",
+                  "description": "Reach members who have shown interest in content related to Risk Management."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:2689786",
+              "name": "Working Environments",
+              "description": "Reach members who have shown interest in content related to Working Environments.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1892858",
+                  "name": "BYOD",
+                  "description": "Reach members who have shown interest in content related to BYOD."
+                },
+                {
+                  "urn": "urn:li:interest:12633",
+                  "name": "Coworking",
+                  "description": "Reach members who have shown interest in content related to Coworking."
+                },
+                {
+                  "urn": "urn:li:interest:90979",
+                  "name": "Home-Based Business",
+                  "description": "Reach members who have shown interest in content related to Home-Based Business."
+                },
+                {
+                  "urn": "urn:li:interest:1538002",
+                  "name": "Hot Desking",
+                  "description": "Reach members who have shown interest in content related to Hot Desking."
+                },
+                {
+                  "urn": "urn:li:interest:2690138",
+                  "name": "Office Design",
+                  "description": "Reach members who have shown interest in content related to Office Design."
+                },
+                {
+                  "urn": "urn:li:interest:2691002",
+                  "name": "Office Supplies",
+                  "description": "Reach members who have shown interest in content related to Office Supplies."
+                },
+                {
+                  "urn": "urn:li:interest:4906",
+                  "name": "Remote Working",
+                  "description": "Reach members who have shown interest in content related to Remote Working."
+                },
+                {
+                  "urn": "urn:li:interest:1536834",
+                  "name": "Workplace Wellness",
+                  "description": "Reach members who have shown interest in content related to Workplace Wellness."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:777",
+          "name": "Careers and Employment",
+          "description": "Reach members who have shown interest in content related to Careers and Employment.",
+          "children": [
+            {
+              "urn": "urn:li:interest:2201082",
+              "name": "Retirement",
+              "description": "Reach members who have shown interest in content related to Retirement.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1538722",
+                  "name": "Pensions",
+                  "description": "Reach members who have shown interest in content related to Pensions."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1537706",
+              "name": "Seasonal and Temporary Jobs",
+              "description": "Reach members who have shown interest in content related to Seasonal and Temporary Jobs."
+            },
+            {
+              "urn": "urn:li:interest:1538602",
+              "name": "Self-Employment",
+              "description": "Reach members who have shown interest in content related to Self-Employment.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1537386",
+                  "name": "Freelancing",
+                  "description": "Reach members who have shown interest in content related to Freelancing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:689290",
+          "name": "Finance and Economy",
+          "description": "Reach members who have shown interest in content related to Finance and Economy.",
+          "children": [
+            {
+              "urn": "urn:li:interest:420",
+              "name": "Banking",
+              "description": "Reach members who have shown interest in content related to Banking.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1537138",
+                  "name": "Central Banks",
+                  "description": "Reach members who have shown interest in content related to Central Banks."
+                },
+                {
+                  "urn": "urn:li:interest:1537154",
+                  "name": "Credit and Lending",
+                  "description": "Reach members who have shown interest in content related to Credit and Lending."
+                },
+                {
+                  "urn": "urn:li:interest:1539402",
+                  "name": "Digital Banking",
+                  "description": "Reach members who have shown interest in content related to Digital Banking."
+                },
+                {
+                  "urn": "urn:li:interest:1535498",
+                  "name": "Retail Banking",
+                  "description": "Reach members who have shown interest in content related to Retail Banking."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:2132",
+              "name": "Financial Investing",
+              "description": "Reach members who have shown interest in content related to Financial Investing.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:4695",
+                  "name": "Venture Capital",
+                  "description": "Reach members who have shown interest in content related to Venture Capital."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:222571",
+              "name": "Financial Technology",
+              "description": "Reach members who have shown interest in content related to Financial Technology.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1538802",
+                  "name": "Digital Currency",
+                  "description": "Reach members who have shown interest in content related to Digital Currency."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1536690",
+              "name": "Global Economy",
+              "description": "Reach members who have shown interest in content related to Global Economy.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1406",
+                  "name": "Emerging Markets",
+                  "description": "Reach members who have shown interest in content related to Emerging Markets."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:2093",
+              "name": "Insurance",
+              "description": "Reach members who have shown interest in content related to Insurance.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1538018",
+                  "name": "Car Insurance",
+                  "description": "Reach members who have shown interest in content related to Car Insurance."
+                },
+                {
+                  "urn": "urn:li:interest:19201",
+                  "name": "Health Insurance",
+                  "description": "Reach members who have shown interest in content related to Health Insurance."
+                },
+                {
+                  "urn": "urn:li:interest:1536186",
+                  "name": "Home Insurance",
+                  "description": "Reach members who have shown interest in content related to Home Insurance."
+                },
+                {
+                  "urn": "urn:li:interest:1537514",
+                  "name": "Insurance Fraud Prevention",
+                  "description": "Reach members who have shown interest in content related to Insurance Fraud Prevention."
+                },
+                {
+                  "urn": "urn:li:interest:74403",
+                  "name": "Liability Insurance",
+                  "description": "Reach members who have shown interest in content related to Liability Insurance."
+                },
+                {
+                  "urn": "urn:li:interest:2512",
+                  "name": "Life Insurance",
+                  "description": "Reach members who have shown interest in content related to Life Insurance."
+                },
+                {
+                  "urn": "urn:li:interest:105387",
+                  "name": "Travel Insurance",
+                  "description": "Reach members who have shown interest in content related to Travel Insurance."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:3440",
+              "name": "Personal Finance",
+              "description": "Reach members who have shown interest in content related to Personal Finance.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1538106",
+                  "name": "Mortgage",
+                  "description": "Reach members who have shown interest in content related to Mortgage."
+                },
+                {
+                  "urn": "urn:li:interest:4249",
+                  "name": "Student Loans",
+                  "description": "Reach members who have shown interest in content related to Student Loans."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1535986",
+              "name": "Public Finance",
+              "description": "Reach members who have shown interest in content related to Public Finance.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1536170",
+                  "name": "International Aid",
+                  "description": "Reach members who have shown interest in content related to International Aid."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:37464",
+              "name": "Taxation",
+              "description": "Reach members who have shown interest in content related to Taxation.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1538010",
+                  "name": "Tariffs",
+                  "description": "Reach members who have shown interest in content related to Tariffs."
+                },
+                {
+                  "urn": "urn:li:interest:1536682",
+                  "name": "Tax Compliance",
+                  "description": "Reach members who have shown interest in content related to Tax Compliance."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1537642",
+              "name": "Trade",
+              "description": "Reach members who have shown interest in content related to Trade.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:692138",
+                  "name": "International Trade",
+                  "description": "Reach members who have shown interest in content related to International Trade."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:1891",
+          "name": "Health",
+          "description": "Reach members who have shown interest in content related to Health."
+        },
+        {
+          "urn": "urn:li:interest:692298",
+          "name": "Marketing and Advertising",
+          "description": "Reach members who have shown interest in content related to Marketing and Advertising.",
+          "children": [
+            {
+              "urn": "urn:li:interest:1536778",
+              "name": "Advertising Strategies",
+              "description": "Reach members who have shown interest in content related to Advertising Strategies.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1538618",
+                  "name": "Celebrity Endorsement",
+                  "description": "Reach members who have shown interest in content related to Celebrity Endorsement."
+                },
+                {
+                  "urn": "urn:li:interest:72427",
+                  "name": "Commercial Sponsorship",
+                  "description": "Reach members who have shown interest in content related to Commercial Sponsorship."
+                },
+                {
+                  "urn": "urn:li:interest:73147",
+                  "name": "Direct Marketing",
+                  "description": "Reach members who have shown interest in content related to Direct Marketing."
+                },
+                {
+                  "urn": "urn:li:interest:27414",
+                  "name": "Mobile Advertising",
+                  "description": "Reach members who have shown interest in content related to Mobile Advertising."
+                },
+                {
+                  "urn": "urn:li:interest:1537618",
+                  "name": "Native Advertising",
+                  "description": "Reach members who have shown interest in content related to Native Advertising."
+                },
+                {
+                  "urn": "urn:li:interest:3341",
+                  "name": "Out-of-Home Advertising",
+                  "description": "Reach members who have shown interest in content related to Out-of-Home Advertising."
+                },
+                {
+                  "urn": "urn:li:interest:2691114",
+                  "name": "POS Advertising",
+                  "description": "Reach members who have shown interest in content related to POS Advertising."
+                },
+                {
+                  "urn": "urn:li:interest:1537474",
+                  "name": "Performance Based Advertising",
+                  "description": "Reach members who have shown interest in content related to Performance Based Advertising."
+                },
+                {
+                  "urn": "urn:li:interest:75947",
+                  "name": "Product Placement",
+                  "description": "Reach members who have shown interest in content related to Product Placement."
+                },
+                {
+                  "urn": "urn:li:interest:1536266",
+                  "name": "Targeted Advertising",
+                  "description": "Reach members who have shown interest in content related to Targeted Advertising."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:79355",
+              "name": "B2B Marketing",
+              "description": "Reach members who have shown interest in content related to B2B Marketing."
+            },
+            {
+              "urn": "urn:li:interest:122251",
+              "name": "Brand Management",
+              "description": "Reach members who have shown interest in content related to Brand Management.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:74299",
+                  "name": "Brand Awareness",
+                  "description": "Reach members who have shown interest in content related to Brand Awareness."
+                },
+                {
+                  "urn": "urn:li:interest:1536978",
+                  "name": "Brand Equity",
+                  "description": "Reach members who have shown interest in content related to Brand Equity."
+                },
+                {
+                  "urn": "urn:li:interest:1893922",
+                  "name": "Brand Personality",
+                  "description": "Reach members who have shown interest in content related to Brand Personality."
+                },
+                {
+                  "urn": "urn:li:interest:1539330",
+                  "name": "Corporate Identity and Culture",
+                  "description": "Reach members who have shown interest in content related to Corporate Identity and Culture."
+                },
+                {
+                  "urn": "urn:li:interest:1536466",
+                  "name": "Employee Advocacy",
+                  "description": "Reach members who have shown interest in content related to Employee Advocacy."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:79475",
+              "name": "Customer Experience",
+              "description": "Reach members who have shown interest in content related to Customer Experience.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1891698",
+                  "name": "Chatbots in Marketing",
+                  "description": "Reach members who have shown interest in content related to Chatbots in Marketing."
+                },
+                {
+                  "urn": "urn:li:interest:91451",
+                  "name": "Consumer Engagement",
+                  "description": "Reach members who have shown interest in content related to Consumer Engagement."
+                },
+                {
+                  "urn": "urn:li:interest:2134698",
+                  "name": "Customer Relationship Management",
+                  "description": "Reach members who have shown interest in content related to Customer Relationship Management."
+                },
+                {
+                  "urn": "urn:li:interest:80731",
+                  "name": "Customer Retention",
+                  "description": "Reach members who have shown interest in content related to Customer Retention."
+                },
+                {
+                  "urn": "urn:li:interest:75419",
+                  "name": "Customer Satisfaction",
+                  "description": "Reach members who have shown interest in content related to Customer Satisfaction."
+                },
+                {
+                  "urn": "urn:li:interest:4666",
+                  "name": "User Experience",
+                  "description": "Reach members who have shown interest in content related to User Experience."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:14088",
+              "name": "Digital Marketing",
+              "description": "Reach members who have shown interest in content related to Digital Marketing.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1535586",
+                  "name": "Adblocking",
+                  "description": "Reach members who have shown interest in content related to Adblocking."
+                },
+                {
+                  "urn": "urn:li:interest:15426",
+                  "name": "Email Marketing",
+                  "description": "Reach members who have shown interest in content related to Email Marketing."
+                },
+                {
+                  "urn": "urn:li:interest:1537466",
+                  "name": "Pay-Per-Click",
+                  "description": "Reach members who have shown interest in content related to Pay-Per-Click."
+                },
+                {
+                  "urn": "urn:li:interest:1536442",
+                  "name": "Programmatic Marketing",
+                  "description": "Reach members who have shown interest in content related to Programmatic Marketing."
+                },
+                {
+                  "urn": "urn:li:interest:1536074",
+                  "name": "Retargeting",
+                  "description": "Reach members who have shown interest in content related to Retargeting."
+                },
+                {
+                  "urn": "urn:li:interest:1538306",
+                  "name": "Search Engine Marketing",
+                  "description": "Reach members who have shown interest in content related to Search Engine Marketing."
+                },
+                {
+                  "urn": "urn:li:interest:2689746",
+                  "name": "Search Engine Optimization",
+                  "description": "Reach members who have shown interest in content related to Search Engine Optimization."
+                },
+                {
+                  "urn": "urn:li:interest:1538426",
+                  "name": "Social Media Marketing",
+                  "description": "Reach members who have shown interest in content related to Social Media Marketing."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1537394",
+              "name": "Marketing Communications",
+              "description": "Reach members who have shown interest in content related to Marketing Communications.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:12484",
+                  "name": "Copywriting",
+                  "description": "Reach members who have shown interest in content related to Copywriting."
+                },
+                {
+                  "urn": "urn:li:interest:1536066",
+                  "name": "Integrated Marketing Communications",
+                  "description": "Reach members who have shown interest in content related to Integrated Marketing Communications."
+                },
+                {
+                  "urn": "urn:li:interest:31867",
+                  "name": "Public Relations",
+                  "description": "Reach members who have shown interest in content related to Public Relations."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1538610",
+              "name": "Marketing Performance Management",
+              "description": "Reach members who have shown interest in content related to Marketing Performance Management.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1537226",
+                  "name": "Marketing Metrics",
+                  "description": "Reach members who have shown interest in content related to Marketing Metrics."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:26052",
+              "name": "Marketing Research",
+              "description": "Reach members who have shown interest in content related to Marketing Research.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1538218",
+                  "name": "Focus Group",
+                  "description": "Reach members who have shown interest in content related to Focus Group."
+                },
+                {
+                  "urn": "urn:li:interest:26048",
+                  "name": "Market Research",
+                  "description": "Reach members who have shown interest in content related to Market Research."
+                },
+                {
+                  "urn": "urn:li:interest:1893562",
+                  "name": "Neuromarketing",
+                  "description": "Reach members who have shown interest in content related to Neuromarketing."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:71619",
+              "name": "Marketing Strategies",
+              "description": "Reach members who have shown interest in content related to Marketing Strategies.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1537282",
+                  "name": "Affinity Marketing",
+                  "description": "Reach members who have shown interest in content related to Affinity Marketing."
+                },
+                {
+                  "urn": "urn:li:interest:12438",
+                  "name": "Content Marketing",
+                  "description": "Reach members who have shown interest in content related to Content Marketing."
+                },
+                {
+                  "urn": "urn:li:interest:1539602",
+                  "name": "Engagement Marketing",
+                  "description": "Reach members who have shown interest in content related to Engagement Marketing."
+                },
+                {
+                  "urn": "urn:li:interest:74459",
+                  "name": "Lead Generation",
+                  "description": "Reach members who have shown interest in content related to Lead Generation."
+                },
+                {
+                  "urn": "urn:li:interest:81131",
+                  "name": "Marketing Mix",
+                  "description": "Reach members who have shown interest in content related to Marketing Mix."
+                },
+                {
+                  "urn": "urn:li:interest:1537378",
+                  "name": "Media Planning",
+                  "description": "Reach members who have shown interest in content related to Media Planning."
+                },
+                {
+                  "urn": "urn:li:interest:81419",
+                  "name": "Relationship Marketing",
+                  "description": "Reach members who have shown interest in content related to Relationship Marketing."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1535786",
+              "name": "Marketing Technology",
+              "description": "Reach members who have shown interest in content related to Marketing Technology.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:96123",
+                  "name": "Marketing Automation",
+                  "description": "Reach members who have shown interest in content related to Marketing Automation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:693802",
+          "name": "Politics and Law",
+          "description": "Reach members who have shown interest in content related to Politics and Law.",
+          "children": [
+            {
+              "urn": "urn:li:interest:692842",
+              "name": "Government",
+              "description": "Reach members who have shown interest in content related to Government."
+            },
+            {
+              "urn": "urn:li:interest:2114",
+              "name": "International Development",
+              "description": "Reach members who have shown interest in content related to International Development."
+            },
+            {
+              "urn": "urn:li:interest:2120",
+              "name": "International Relations",
+              "description": "Reach members who have shown interest in content related to International Relations."
+            },
+            {
+              "urn": "urn:li:interest:690658",
+              "name": "Law Practice",
+              "description": "Reach members who have shown interest in content related to Law Practice.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:694106",
+                  "name": "Legal Accreditation",
+                  "description": "Reach members who have shown interest in content related to Legal Accreditation."
+                },
+                {
+                  "urn": "urn:li:interest:691658",
+                  "name": "Legal Aid",
+                  "description": "Reach members who have shown interest in content related to Legal Aid."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:2463",
+              "name": "Legislation",
+              "description": "Reach members who have shown interest in content related to Legislation.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:76091",
+                  "name": "Corporate Law",
+                  "description": "Reach members who have shown interest in content related to Corporate Law."
+                },
+                {
+                  "urn": "urn:li:interest:2689970",
+                  "name": "Data Protection",
+                  "description": "Reach members who have shown interest in content related to Data Protection."
+                },
+                {
+                  "urn": "urn:li:interest:692850",
+                  "name": "Insurance Law",
+                  "description": "Reach members who have shown interest in content related to Insurance Law."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:693714",
+              "name": "Public Services",
+              "description": "Reach members who have shown interest in content related to Public Services."
+            },
+            {
+              "urn": "urn:li:interest:693522",
+              "name": "Social Issues",
+              "description": "Reach members who have shown interest in content related to Social Issues.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:97971",
+                  "name": "Civic Engagement",
+                  "description": "Reach members who have shown interest in content related to Civic Engagement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:693146",
+          "name": "Sales and Retail",
+          "description": "Reach members who have shown interest in content related to Sales and Retail.",
+          "children": [
+            {
+              "urn": "urn:li:interest:2201362",
+              "name": "Sales Channels",
+              "description": "Reach members who have shown interest in content related to Sales Channels.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1538210",
+                  "name": "E-Commerce",
+                  "description": "Reach members who have shown interest in content related to E-Commerce."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:692594",
+          "name": "Science and Environment",
+          "description": "Reach members who have shown interest in content related to Science and Environment.",
+          "children": [
+            {
+              "urn": "urn:li:interest:1537946",
+              "name": "Agriculture and Farming",
+              "description": "Reach members who have shown interest in content related to Agriculture and Farming.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:125659",
+                  "name": "Agronomy and Agricultural Sciences",
+                  "description": "Reach members who have shown interest in content related to Agronomy and Agricultural Sciences."
+                },
+                {
+                  "urn": "urn:li:interest:178459",
+                  "name": "Crops",
+                  "description": "Reach members who have shown interest in content related to Crops."
+                },
+                {
+                  "urn": "urn:li:interest:1537930",
+                  "name": "Farm Machinery and Automation",
+                  "description": "Reach members who have shown interest in content related to Farm Machinery and Automation."
+                },
+                {
+                  "urn": "urn:li:interest:84443",
+                  "name": "Forestry",
+                  "description": "Reach members who have shown interest in content related to Forestry."
+                },
+                {
+                  "urn": "urn:li:interest:1537450",
+                  "name": "GMOs",
+                  "description": "Reach members who have shown interest in content related to GMOs."
+                },
+                {
+                  "urn": "urn:li:interest:2163",
+                  "name": "Irrigation",
+                  "description": "Reach members who have shown interest in content related to Irrigation."
+                },
+                {
+                  "urn": "urn:li:interest:2545",
+                  "name": "Livestock",
+                  "description": "Reach members who have shown interest in content related to Livestock."
+                },
+                {
+                  "urn": "urn:li:interest:29871",
+                  "name": "Organic Farming",
+                  "description": "Reach members who have shown interest in content related to Organic Farming."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:535",
+              "name": "Biology",
+              "description": "Reach members who have shown interest in content related to Biology.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:17617",
+                  "name": "Genetics",
+                  "description": "Reach members who have shown interest in content related to Genetics."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:878",
+              "name": "Chemistry",
+              "description": "Reach members who have shown interest in content related to Chemistry."
+            },
+            {
+              "urn": "urn:li:interest:1415",
+              "name": "Energy",
+              "description": "Reach members who have shown interest in content related to Energy.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:32704",
+                  "name": "Renewable Energy",
+                  "description": "Reach members who have shown interest in content related to Renewable Energy."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1417",
+              "name": "Engineering",
+              "description": "Reach members who have shown interest in content related to Engineering.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1537626",
+                  "name": "Infrastructure",
+                  "description": "Reach members who have shown interest in content related to Infrastructure."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:693706",
+          "name": "Society and Culture",
+          "description": "Reach members who have shown interest in content related to Society and Culture.",
+          "children": [
+            {
+              "urn": "urn:li:interest:693338",
+              "name": "News Media",
+              "description": "Reach members who have shown interest in content related to News Media.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:2303",
+                  "name": "Journalism",
+                  "description": "Reach members who have shown interest in content related to Journalism."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:4073",
+              "name": "Social Media",
+              "description": "Reach members who have shown interest in content related to Social Media.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:557",
+                  "name": "Blogs and Blogging",
+                  "description": "Reach members who have shown interest in content related to Blogs and Blogging."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:4341",
+          "name": "Technology",
+          "description": "Reach members who have shown interest in content related to Technology.",
+          "children": [
+            {
+              "urn": "urn:li:interest:308",
+              "name": "Artificial Intelligence",
+              "description": "Reach members who have shown interest in content related to Artificial Intelligence.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1894122",
+                  "name": "Chatbots",
+                  "description": "Reach members who have shown interest in content related to Chatbots."
+                },
+                {
+                  "urn": "urn:li:interest:1538050",
+                  "name": "Machine Learning",
+                  "description": "Reach members who have shown interest in content related to Machine Learning."
+                },
+                {
+                  "urn": "urn:li:interest:1891970",
+                  "name": "Natural Language Processing",
+                  "description": "Reach members who have shown interest in content related to Natural Language Processing."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:536",
+              "name": "Biotechnology",
+              "description": "Reach members who have shown interest in content related to Biotechnology.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1893738",
+                  "name": "Gene Editing Therapy",
+                  "description": "Reach members who have shown interest in content related to Gene Editing Therapy."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1536594",
+              "name": "Computer Graphics",
+              "description": "Reach members who have shown interest in content related to Computer Graphics.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:7764",
+                  "name": "Augmented Reality",
+                  "description": "Reach members who have shown interest in content related to Augmented Reality."
+                },
+                {
+                  "urn": "urn:li:interest:1537690",
+                  "name": "Computer Animation",
+                  "description": "Reach members who have shown interest in content related to Computer Animation."
+                },
+                {
+                  "urn": "urn:li:interest:1538418",
+                  "name": "Video Game Development",
+                  "description": "Reach members who have shown interest in content related to Video Game Development."
+                },
+                {
+                  "urn": "urn:li:interest:1536178",
+                  "name": "Virtual Reality",
+                  "description": "Reach members who have shown interest in content related to Virtual Reality."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1537426",
+              "name": "Computer Programming",
+              "description": "Reach members who have shown interest in content related to Computer Programming.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1537722",
+                  "name": "Competitive Programming",
+                  "description": "Reach members who have shown interest in content related to Competitive Programming."
+                },
+                {
+                  "urn": "urn:li:interest:2690714",
+                  "name": "Computer Languages",
+                  "description": "Reach members who have shown interest in content related to Computer Languages."
+                },
+                {
+                  "urn": "urn:li:interest:1534698",
+                  "name": "Integrated Development Environments",
+                  "description": "Reach members who have shown interest in content related to Integrated Development Environments."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1029",
+              "name": "Computer Software",
+              "description": "Reach members who have shown interest in content related to Computer Software.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:2689778",
+                  "name": "Antivirus and Malware",
+                  "description": "Reach members who have shown interest in content related to Antivirus and Malware."
+                },
+                {
+                  "urn": "urn:li:interest:2452962",
+                  "name": "Design Software",
+                  "description": "Reach members who have shown interest in content related to Design Software."
+                },
+                {
+                  "urn": "urn:li:interest:2453066",
+                  "name": "Enterprise Software",
+                  "description": "Reach members who have shown interest in content related to Enterprise Software."
+                },
+                {
+                  "urn": "urn:li:interest:3311",
+                  "name": "Open Source Software",
+                  "description": "Reach members who have shown interest in content related to Open Source Software."
+                },
+                {
+                  "urn": "urn:li:interest:1537298",
+                  "name": "Operating Systems",
+                  "description": "Reach members who have shown interest in content related to Operating Systems."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:86483",
+              "name": "Data Management",
+              "description": "Reach members who have shown interest in content related to Data Management.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:8862",
+                  "name": "Big Data",
+                  "description": "Reach members who have shown interest in content related to Big Data."
+                },
+                {
+                  "urn": "urn:li:interest:1892170",
+                  "name": "Blockchain Technology",
+                  "description": "Reach members who have shown interest in content related to Blockchain Technology."
+                },
+                {
+                  "urn": "urn:li:interest:1538058",
+                  "name": "Data Architecture",
+                  "description": "Reach members who have shown interest in content related to Data Architecture."
+                },
+                {
+                  "urn": "urn:li:interest:2453178",
+                  "name": "Data Hosting",
+                  "description": "Reach members who have shown interest in content related to Data Hosting."
+                },
+                {
+                  "urn": "urn:li:interest:1537266",
+                  "name": "Data Modeling",
+                  "description": "Reach members who have shown interest in content related to Data Modeling."
+                },
+                {
+                  "urn": "urn:li:interest:256411",
+                  "name": "Data Science",
+                  "description": "Reach members who have shown interest in content related to Data Science."
+                },
+                {
+                  "urn": "urn:li:interest:1162",
+                  "name": "Databases",
+                  "description": "Reach members who have shown interest in content related to Databases."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:92003",
+              "name": "Digital Manufacturing",
+              "description": "Reach members who have shown interest in content related to Digital Manufacturing.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:5231",
+                  "name": "3D Printing",
+                  "description": "Reach members who have shown interest in content related to 3D Printing."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1386",
+              "name": "Electronics",
+              "description": "Reach members who have shown interest in content related to Electronics.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:1868",
+                  "name": "Computer Hardware",
+                  "description": "Reach members who have shown interest in content related to Computer Hardware."
+                },
+                {
+                  "urn": "urn:li:interest:1051",
+                  "name": "Consumer Electronics",
+                  "description": "Reach members who have shown interest in content related to Consumer Electronics."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:1536994",
+              "name": "Human-Computer Interaction",
+              "description": "Reach members who have shown interest in content related to Human-Computer Interaction."
+            },
+            {
+              "urn": "urn:li:interest:91515",
+              "name": "Information Technology",
+              "description": "Reach members who have shown interest in content related to Information Technology.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:71483",
+                  "name": "IT Infrastructure",
+                  "description": "Reach members who have shown interest in content related to IT Infrastructure."
+                },
+                {
+                  "urn": "urn:li:interest:1536354",
+                  "name": "Information Systems",
+                  "description": "Reach members who have shown interest in content related to Information Systems."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:2689034",
+              "name": "Internet Infrastructure",
+              "description": "Reach members who have shown interest in content related to Internet Infrastructure.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:71451",
+                  "name": "Computer Networks",
+                  "description": "Reach members who have shown interest in content related to Computer Networks."
+                },
+                {
+                  "urn": "urn:li:interest:1538522",
+                  "name": "Web Development",
+                  "description": "Reach members who have shown interest in content related to Web Development."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:2891",
+              "name": "Mobile Technology",
+              "description": "Reach members who have shown interest in content related to Mobile Technology.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:2890",
+                  "name": "Cell Phones",
+                  "description": "Reach members who have shown interest in content related to Cell Phones."
+                },
+                {
+                  "urn": "urn:li:interest:1536378",
+                  "name": "Tablet Computers",
+                  "description": "Reach members who have shown interest in content related to Tablet Computers."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:2992",
+              "name": "Nanotechnology",
+              "description": "Reach members who have shown interest in content related to Nanotechnology."
+            },
+            {
+              "urn": "urn:li:interest:1893546",
+              "name": "Quantum Computing",
+              "description": "Reach members who have shown interest in content related to Quantum Computing."
+            },
+            {
+              "urn": "urn:li:interest:3782",
+              "name": "Robotics",
+              "description": "Reach members who have shown interest in content related to Robotics.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:125947",
+                  "name": "Drones",
+                  "description": "Reach members who have shown interest in content related to Drones."
+                },
+                {
+                  "urn": "urn:li:interest:1892162",
+                  "name": "Nanorobotics",
+                  "description": "Reach members who have shown interest in content related to Nanorobotics."
+                },
+                {
+                  "urn": "urn:li:interest:1893914",
+                  "name": "Swarm Robotics",
+                  "description": "Reach members who have shown interest in content related to Swarm Robotics."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1496",
+          "name": "Administrative Support Software",
+          "description": "Reach members who have shown interest in content related to Administrative Support Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1294",
+              "name": "Business Management Software",
+              "description": "Reach members who have shown interest in content related to Business Management Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1158",
+              "name": "Enterprise Asset Management (EAM) Software",
+              "description": "Reach members who have shown interest in content related to Enterprise Asset Management (EAM) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1025",
+              "name": "Enterprise Resource Planning (ERP) Software",
+              "description": "Reach members who have shown interest in content related to Enterprise Resource Planning (ERP) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1353",
+              "name": "IT Asset Management Software",
+              "description": "Reach members who have shown interest in content related to IT Asset Management Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1293",
+              "name": "Professional Services Automation (PSA) Software",
+              "description": "Reach members who have shown interest in content related to Professional Services Automation (PSA) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1401",
+              "name": "Project Administration Software",
+              "description": "Reach members who have shown interest in content related to Project Administration Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1497",
+          "name": "Business Strategy Software",
+          "description": "Reach members who have shown interest in content related to Business Strategy Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1008",
+              "name": "Business Intelligence (BI) Software",
+              "description": "Reach members who have shown interest in content related to Business Intelligence (BI) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1066",
+              "name": "Data Visualization Software",
+              "description": "Reach members who have shown interest in content related to Data Visualization Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1224",
+              "name": "Partner Relationship Management (PRM) Software",
+              "description": "Reach members who have shown interest in content related to Partner Relationship Management (PRM) Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1502",
+          "name": "Computing Software",
+          "description": "Reach members who have shown interest in content related to Computing Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1503",
+              "name": "Cloud Management Software",
+              "description": "Reach members who have shown interest in content related to Cloud Management Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1400",
+              "name": "Collaboration Software",
+              "description": "Reach members who have shown interest in content related to Collaboration Software.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:spc1070",
+                  "name": "Enterprise Messaging Software",
+                  "description": "Reach members who have shown interest in content related to Enterprise Messaging Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1183",
+                  "name": "Enterprise Social Networking Software",
+                  "description": "Reach members who have shown interest in content related to Enterprise Social Networking Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1520",
+                  "name": "Intranet Software",
+                  "description": "Reach members who have shown interest in content related to Intranet Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1049",
+                  "name": "Video Conferencing Software",
+                  "description": "Reach members who have shown interest in content related to Video Conferencing Software."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:spc1014",
+              "name": "Content Delivery Network (CDN) Software",
+              "description": "Reach members who have shown interest in content related to Content Delivery Network (CDN) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1127",
+              "name": "Cybersecurity Software",
+              "description": "Reach members who have shown interest in content related to Cybersecurity Software.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:spc1053",
+                  "name": "Cloud Security Software",
+                  "description": "Reach members who have shown interest in content related to Cloud Security Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1595",
+                  "name": "DDoS Protection Software",
+                  "description": "Reach members who have shown interest in content related to DDoS Protection Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1143",
+                  "name": "Web Application Firewalls (WAF)",
+                  "description": "Reach members who have shown interest in content related to Web Application Firewalls (WAF)."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:spc1088",
+              "name": "Data Center Infrastructure Management (DCIM) Software",
+              "description": "Reach members who have shown interest in content related to Data Center Infrastructure Management (DCIM) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1504",
+              "name": "Data Management Software",
+              "description": "Reach members who have shown interest in content related to Data Management Software.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:spc1089",
+                  "name": "Data Warehouse Software",
+                  "description": "Reach members who have shown interest in content related to Data Warehouse Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1090",
+                  "name": "Database as a Service (DBaaS) Software",
+                  "description": "Reach members who have shown interest in content related to Database as a Service (DBaaS) Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1197",
+                  "name": "ETL Tools",
+                  "description": "Reach members who have shown interest in content related to ETL Tools."
+                },
+                {
+                  "urn": "urn:li:interest:spc1286",
+                  "name": "Enterprise Service Bus (ESB) Software",
+                  "description": "Reach members who have shown interest in content related to Enterprise Service Bus (ESB) Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1518",
+                  "name": "Key-Value Database Software",
+                  "description": "Reach members who have shown interest in content related to Key-Value Database Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1245",
+                  "name": "Master Data Management (MDM) Software",
+                  "description": "Reach members who have shown interest in content related to Master Data Management (MDM) Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1242",
+                  "name": "NoSQL Database Software",
+                  "description": "Reach members who have shown interest in content related to NoSQL Database Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1177",
+                  "name": "Relational Database Management Systems",
+                  "description": "Reach members who have shown interest in content related to Relational Database Management Systems."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:spc1522",
+              "name": "Data Replication Software",
+              "description": "Reach members who have shown interest in content related to Data Replication Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1296",
+              "name": "Disaster Recovery as a Service (DRaaS) Software",
+              "description": "Reach members who have shown interest in content related to Disaster Recovery as a Service (DRaaS) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1492",
+              "name": "Live Streaming Software",
+              "description": "Reach members who have shown interest in content related to Live Streaming Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1216",
+              "name": "Load Balancing Software",
+              "description": "Reach members who have shown interest in content related to Load Balancing Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1309",
+              "name": "Log Management Software",
+              "description": "Reach members who have shown interest in content related to Log Management Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1358",
+              "name": "Message Queue Software",
+              "description": "Reach members who have shown interest in content related to Message Queue Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1118",
+              "name": "Network Management Software",
+              "description": "Reach members who have shown interest in content related to Network Management Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1169",
+              "name": "Object Storage Software",
+              "description": "Reach members who have shown interest in content related to Object Storage Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1155",
+              "name": "Robotic Process Automation (RPA) Software",
+              "description": "Reach members who have shown interest in content related to Robotic Process Automation (RPA) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1059",
+              "name": "Software-Defined Wide Area Networks (SD-WAN)",
+              "description": "Reach members who have shown interest in content related to Software-Defined Wide Area Networks (SD-WAN)."
+            },
+            {
+              "urn": "urn:li:interest:spc1136",
+              "name": "Virtual Private Cloud (VPC) Software",
+              "description": "Reach members who have shown interest in content related to Virtual Private Cloud (VPC) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1073",
+              "name": "Web Browsers",
+              "description": "Reach members who have shown interest in content related to Web Browsers."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1500",
+          "name": "Content Management Systems (CMS)",
+          "description": "Reach members who have shown interest in content related to Content Management Systems (CMS).",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1394",
+              "name": "Content Creation Software",
+              "description": "Reach members who have shown interest in content related to Content Creation Software.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:spc1003",
+                  "name": "Desktop Publishing Software",
+                  "description": "Reach members who have shown interest in content related to Desktop Publishing Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1086",
+                  "name": "Enterprise Content Management (ECM) Software",
+                  "description": "Reach members who have shown interest in content related to Enterprise Content Management (ECM) Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1004",
+                  "name": "Video Editing Software",
+                  "description": "Reach members who have shown interest in content related to Video Editing Software."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:spc1521",
+              "name": "Digital Experience Platforms (DXP)",
+              "description": "Reach members who have shown interest in content related to Digital Experience Platforms (DXP)."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1031",
+          "name": "Customer Support Software",
+          "description": "Reach members who have shown interest in content related to Customer Support Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1082",
+              "name": "Call Center Software",
+              "description": "Reach members who have shown interest in content related to Call Center Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1192",
+              "name": "Help Desk Software",
+              "description": "Reach members who have shown interest in content related to Help Desk Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1415",
+              "name": "Remote Support Software",
+              "description": "Reach members who have shown interest in content related to Remote Support Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1505",
+          "name": "Data Science Software",
+          "description": "Reach members who have shown interest in content related to Data Science Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1172",
+              "name": "Big Data Analytics Software",
+              "description": "Reach members who have shown interest in content related to Big Data Analytics Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1215",
+              "name": "Data Preparation Tools",
+              "description": "Reach members who have shown interest in content related to Data Preparation Tools."
+            },
+            {
+              "urn": "urn:li:interest:spc1261",
+              "name": "Event Stream Processing (ESP) Software",
+              "description": "Reach members who have shown interest in content related to Event Stream Processing (ESP) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1904",
+              "name": "Machine Learning Software & Platforms",
+              "description": "Reach members who have shown interest in content related to Machine Learning Software & Platforms."
+            },
+            {
+              "urn": "urn:li:interest:spc1046",
+              "name": "Statistical Analysis Software",
+              "description": "Reach members who have shown interest in content related to Statistical Analysis Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1509",
+          "name": "Education Software",
+          "description": "Reach members who have shown interest in content related to Education Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1056",
+              "name": "Learning Management Systems (LMS)",
+              "description": "Reach members who have shown interest in content related to Learning Management Systems (LMS)."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1506",
+          "name": "Engineering Software",
+          "description": "Reach members who have shown interest in content related to Engineering Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1009",
+              "name": "Computer-Aided Design (CAD) Software",
+              "description": "Reach members who have shown interest in content related to Computer-Aided Design (CAD) Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1498",
+          "name": "Financial Management Software",
+          "description": "Reach members who have shown interest in content related to Financial Management Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:1893834",
+              "name": "Accounting Software",
+              "description": "Reach members who have shown interest in content related to Accounting Software.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:spc1180",
+                  "name": "Payment Processing Software",
+                  "description": "Reach members who have shown interest in content related to Payment Processing Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1251",
+                  "name": "Spend Management Software",
+                  "description": "Reach members who have shown interest in content related to Spend Management Software."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:spc1164",
+              "name": "Financial Analytics Software",
+              "description": "Reach members who have shown interest in content related to Financial Analytics Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1364",
+              "name": "Revenue Management Software",
+              "description": "Reach members who have shown interest in content related to Revenue Management Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1510",
+          "name": "Healthcare Software",
+          "description": "Reach members who have shown interest in content related to Healthcare Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1495",
+              "name": "Electronic Health Records (EHR) Software",
+              "description": "Reach members who have shown interest in content related to Electronic Health Records (EHR) Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1396",
+          "name": "Human Resources Software",
+          "description": "Reach members who have shown interest in content related to Human Resources Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1101",
+              "name": "Employee Engagement Software",
+              "description": "Reach members who have shown interest in content related to Employee Engagement Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1016",
+              "name": "Human Resources Management Systems (HRMS)",
+              "description": "Reach members who have shown interest in content related to Human Resources Management Systems (HRMS)."
+            },
+            {
+              "urn": "urn:li:interest:spc1179",
+              "name": "Payroll Software",
+              "description": "Reach members who have shown interest in content related to Payroll Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1315",
+              "name": "Staffing & Recruiting Software",
+              "description": "Reach members who have shown interest in content related to Staffing & Recruiting Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1651",
+              "name": "Training & Development Software",
+              "description": "Reach members who have shown interest in content related to Training & Development Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1512",
+          "name": "Manufacturing Software",
+          "description": "Reach members who have shown interest in content related to Manufacturing Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1198",
+              "name": "Manufacturing Execution System (MES) Software",
+              "description": "Reach members who have shown interest in content related to Manufacturing Execution System (MES) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1120",
+              "name": "Supply Chain Management Software",
+              "description": "Reach members who have shown interest in content related to Supply Chain Management Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1397",
+          "name": "Marketing Software",
+          "description": "Reach members who have shown interest in content related to Marketing Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1736",
+              "name": "Account Marketing Management Software",
+              "description": "Reach members who have shown interest in content related to Account Marketing Management Software.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:spc1324",
+                  "name": "Account-Based Marketing (ABM) Software",
+                  "description": "Reach members who have shown interest in content related to Account-Based Marketing (ABM) Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1319",
+                  "name": "Personalization Software",
+                  "description": "Reach members who have shown interest in content related to Personalization Software."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:spc1738",
+              "name": "Database Marketing Software",
+              "description": "Reach members who have shown interest in content related to Database Marketing Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1741",
+              "name": "Direct Marketing Software",
+              "description": "Reach members who have shown interest in content related to Direct Marketing Software.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:spc1207",
+                  "name": "Email Marketing Software",
+                  "description": "Reach members who have shown interest in content related to Email Marketing Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1363",
+                  "name": "Push Notification Software",
+                  "description": "Reach members who have shown interest in content related to Push Notification Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1389",
+                  "name": "SMS Marketing Software",
+                  "description": "Reach members who have shown interest in content related to SMS Marketing Software."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:spc1402",
+              "name": "Marketing Administration Software",
+              "description": "Reach members who have shown interest in content related to Marketing Administration Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1745",
+              "name": "Marketing Data Analytics Software",
+              "description": "Reach members who have shown interest in content related to Marketing Data Analytics Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:2453922",
+          "name": "Productivity Software",
+          "description": "Reach members who have shown interest in content related to Productivity Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1206",
+              "name": "Calendar Software",
+              "description": "Reach members who have shown interest in content related to Calendar Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1038",
+              "name": "Note-Taking Software",
+              "description": "Reach members who have shown interest in content related to Note-Taking Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1204",
+              "name": "Presentation Software",
+              "description": "Reach members who have shown interest in content related to Presentation Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1199",
+              "name": "Spreadsheet Software",
+              "description": "Reach members who have shown interest in content related to Spreadsheet Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1507",
+          "name": "Quality Management Software",
+          "description": "Reach members who have shown interest in content related to Quality Management Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1011",
+              "name": "Application Performance Monitoring (APM) Software",
+              "description": "Reach members who have shown interest in content related to Application Performance Monitoring (APM) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1458",
+              "name": "Cloud Monitoring Tools",
+              "description": "Reach members who have shown interest in content related to Cloud Monitoring Tools."
+            },
+            {
+              "urn": "urn:li:interest:spc1593",
+              "name": "Server Monitoring Software",
+              "description": "Reach members who have shown interest in content related to Server Monitoring Software."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1398",
+          "name": "Sales Software",
+          "description": "Reach members who have shown interest in content related to Sales Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1126",
+              "name": "Configure Price Quote (CPQ) Software",
+              "description": "Reach members who have shown interest in content related to Configure Price Quote (CPQ) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1403",
+              "name": "Customer Relationship Administration Software",
+              "description": "Reach members who have shown interest in content related to Customer Relationship Administration Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1017",
+              "name": "Customer Relationship Management (CRM) Software",
+              "description": "Reach members who have shown interest in content related to Customer Relationship Management (CRM) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1750",
+              "name": "Marketplace Management Software",
+              "description": "Reach members who have shown interest in content related to Marketplace Management Software.",
+              "children": [
+                {
+                  "urn": "urn:li:interest:spc1585",
+                  "name": "Catalog Management Software",
+                  "description": "Reach members who have shown interest in content related to Catalog Management Software."
+                },
+                {
+                  "urn": "urn:li:interest:spc1304",
+                  "name": "Transactional Email Software",
+                  "description": "Reach members who have shown interest in content related to Transactional Email Software."
+                }
+              ]
+            },
+            {
+              "urn": "urn:li:interest:spc1182",
+              "name": "Sales Analytics Software",
+              "description": "Reach members who have shown interest in content related to Sales Analytics Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1181",
+              "name": "Sales Engagement Platforms",
+              "description": "Reach members who have shown interest in content related to Sales Engagement Platforms."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1399",
+          "name": "Software Development Software",
+          "description": "Reach members who have shown interest in content related to Software Development Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1054",
+              "name": "API Management Software",
+              "description": "Reach members who have shown interest in content related to API Management Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1211",
+              "name": "Container Management Software",
+              "description": "Reach members who have shown interest in content related to Container Management Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1030",
+              "name": "Game Engine Software",
+              "description": "Reach members who have shown interest in content related to Game Engine Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1570",
+              "name": "Mobile Development Platforms",
+              "description": "Reach members who have shown interest in content related to Mobile Development Platforms."
+            },
+            {
+              "urn": "urn:li:interest:spc1379",
+              "name": "Web Frameworks",
+              "description": "Reach members who have shown interest in content related to Web Frameworks."
+            }
+          ]
+        },
+        {
+          "urn": "urn:li:interest:spc1905",
+          "name": "Transportation Software",
+          "description": "Reach members who have shown interest in content related to Transportation Software.",
+          "children": [
+            {
+              "urn": "urn:li:interest:spc1152",
+              "name": "Geographic Information System (GIS) Software",
+              "description": "Reach members who have shown interest in content related to Geographic Information System (GIS) Software."
+            },
+            {
+              "urn": "urn:li:interest:spc1119",
+              "name": "Shipping Software",
+              "description": "Reach members who have shown interest in content related to Shipping Software."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
