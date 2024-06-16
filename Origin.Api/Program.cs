@@ -1,4 +1,5 @@
 using Origin.Api.Handlers;
+using Origin.Api.Logging;
 using Origin.Api.Middleware;
 using Origin.Api.Services;
 using Origin.Api.Services.Interfaces;
@@ -11,6 +12,9 @@ builder.Services.AddHttpClient();
 builder.Services.AddTransient<ISearchService, SearchService>();
 builder.Services.AddTransient<ILinkedInService, LinkedInService>();
 builder.Services.AddTransient<IFilterService, FilterService>();
+
+//Logging
+builder.Services.AddScoped<ILoggingService<FilterHandler>, LoggingService<FilterHandler>>();
 
 // Settings
 builder.Services.Configure<LinkedInSettings>(builder.Configuration.GetSection("LinkedInSettings"));
