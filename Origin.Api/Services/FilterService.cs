@@ -23,7 +23,7 @@ namespace Origin.Api.Services
             {
                 // TODO: _logger.LogError(ex, "Error getting filters files for {filterFile}", file);
                 // TODO: throw unknown exception
-                throw;
+                return null;
             }
         }
     }
